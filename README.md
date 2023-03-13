@@ -1,14 +1,13 @@
 ### Welcome to my GitHub 👋
   
- ### :woman_technologist: About Me : 
-  ----------------------------------------------------------------------------------------------------------------
+ ## :woman_technologist: About Me : 
   
   I am 24 years old, I'am a IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Switzerland.
   <br>
   I am passionate about Front-End and Design.
   
-  ### Current Projects 
-  I'am currently working on 2 projects to improve my skills and knowledge :
+  ## Current Projects 
+  I am currently working on 2 projects to improve my skills and knowledge :
   <br></br>
   :zap: Pokedex: I'm creating a modern Pokedex website with the use of the PokeAPI to retrieve the data regarding the Pokemons. 
  <br>
@@ -20,7 +19,7 @@
    Framework :  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
  
   
-  ### :hammer_and_wrench: Languages and Tools :
+  ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
