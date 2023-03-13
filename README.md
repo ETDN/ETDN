@@ -2,7 +2,7 @@
   
  ## :woman_technologist: About Me : 
   
-  I am 24 years old, I'am a IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Switzerland.
+  I am 24 years old, I am a IT Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Switzerland.
   <br>
   I am passionate about Front-End and Design.
   
